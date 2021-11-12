@@ -1,16 +1,12 @@
-# lets_walk
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td>Starting Screen</td>
+     <td>Exercise and diet Screen</td>
+     <td>Recipe Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/68145747/141459809-34b4bc26-99c6-4a00-ae4a-cf65ebcd0ca5.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/68145747/141459860-dfd6137c-f262-42d0-874a-8b3bbc3efe84.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/68145747/141459918-fd65aaf3-7e19-41e1-948c-c64d863d634c.png" width=270 height=480></td>
+  </tr>
+ </table>
