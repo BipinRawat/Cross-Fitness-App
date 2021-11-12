@@ -1,0 +1,368 @@
+[
+  {
+    "1":  "01. Which header file lets us work with input and output objects?",
+    "2":  "02. Which operator can be used to compare two values?",
+    "3":  "03. To declare an array in C++, define the variable type with:",
+    "4":  "04. How do you create a function in C++?",
+    "5":  "05. How do you call a function in C++?",
+    "6":  "06. Which keyword is used to create a class in C++?",
+    "7":  "07. What is the correct way to create an object called myObj of MyClass?",
+    "8":  "08. Which method can be used to find the highest value of x and y?",
+    "9":  "09. Which operator is used to multiply numbers?",
+    "10": "10. How do you create a reference variable of an existing variable?"
+  },
+  {
+    "1": {
+      "a": "#include <inputstr>",
+      "b": "#include <stream>",
+      "c": "#include <iostream>",
+      "d": "#include <iosstring>"
+    },
+    "2": {
+      "a": "=",
+      "b": "== ",
+      "c": "><",
+      "d": "<>"
+    },
+    "3": {
+      "a": "{}",
+      "b": "[] ",
+      "c": "()",
+      "d": "None"
+    },
+    "4": {
+      "a": "functionName.",
+      "b": "functionName[]",
+      "c": "(functionName)",
+      "d": "functionName() "
+    },
+    "5": {
+      "a": "functionName();",
+      "b": "(functionName);",
+      "c": "functionName[];",
+      "d": "functionName;"
+    },
+    "6": {
+      "a": "class()",
+      "b": "className",
+      "c": "MyClass",
+      "d": "class"
+    },
+    "7": {
+      "a": "class MyClass = new myObj();\n",
+      "b": "new myObj = MyClass();",
+      "c": "class myObj = new MyClass();",
+      "d": "MyClass myObj;"
+    },
+    "8": {
+      "a": "largest(x,y)",
+      "b": "maxNum(x,y)",
+      "c": "maximum(x,y)",
+      "d": "max(x,y)"
+    },
+    "9": {
+      "a": "*",
+      "b": "%",
+      "c": "x",
+      "d": "#"
+    },
+    "10": {
+      "a": "With the * operator",
+      "b": "With the REF word",
+      "c": "With the & operator",
+      "d": "With the ref word"
+    },
+    "11": {
+      "a": "Encapsulation",
+      "b": "Inheritance",
+      "c": "Polymorphism",
+      "d": "All of the above"
+    },
+    "12": {
+      "a": "//Comment",
+      "b": "/Comment/",
+      "c": "Comment",
+      "d": "None of the above"
+    },
+    "13": {
+      "a": "High-level language",
+      "b": "Low-level language",
+      "c": "Middle-level language",
+      "d": "None of the above"
+    },
+    "14": {
+      "a": "\\n",
+      "b": "\\r",
+      "c": "\\a",
+      "d": "None of the above"
+    },
+    "15": {
+      "a": "\\n",
+      "b": "\\t",
+      "c": "\\r",
+      "d": "None of the above"
+    },
+    "16": {
+      "a": "An array is a set of similar data items",
+      "b": "An array is a set of distinct data items",
+      "c": "An array can hold different types of datatypes",
+      "d": "None of the above"
+    },
+    "17": {
+      "a": "3",
+      "b": "5",
+      "c": "4",
+      "d": "88"
+    },
+    "18": {
+      "a": "init array[]",
+      "b": "int array [5];",
+      "c": "Array[5];",
+      "d": "None of the above"
+    },
+    "19": {
+      "a": "array[0];",
+      "b": "array[1];",
+      "c": "array[2];",
+      "d": "None of the above"
+    },
+    "20": {
+      "a": "Array[0];",
+      "b": "Array[0];",
+      "c": "Array[3];",
+      "d": "None of the above"
+    },
+    "21": {
+      "a": "Contiguous",
+      "b": "None-contiguous",
+      "c": "Both A and B",
+      "d": "Not mentioned"
+    },
+    "22": {
+      "a": "Three",
+      "b": "Four",
+      "c": "Two",
+      "d": "Both A and B"
+    },
+    "23": {
+      "a": "Single Dimensional array",
+      "b": "Multi-Dimensional array",
+      "c": "2D Array(or 2-Dimensional array) ",
+      "d": "Both A and B"
+    },
+    "24": {
+      "a": "Single-dimensional array",
+      "b": "Multi-dimensional array",
+      "c": "Both A and B",
+      "d": "None of the above"
+    },
+    "25": {
+      "a": "Index of an array",
+      "b": "Elements of the Array",
+      "c": "Functions of the Array",
+      "d": "All of the above"
+    },
+    "26": {
+      "a": "Same types of elements",
+      "b": "Char and int type",
+      "c": "Only char types",
+      "d": "All of the above"
+    },
+    "27": {
+      "a": "Subscript of Array",
+      "b": "Members of Array",
+      "c": "Index values",
+      "d": "Both A and C"
+    },
+    "28": {
+      "a": "int arr = new int[10];",
+      "b": "int *arr = new int*[10]",
+      "c": "int **arr = new int*[10];",
+      "d": "int *arr = new int[10];"
+    },
+    "29": {
+      "a": "Public",
+      "b": "Protected",
+      "c": "Private",
+      "d": "Both A and C"
+    },
+    "30": {
+      "a": "An object is an instance of its class",
+      "b": "A class is an instance of its object",
+      "c": "An object is the instan",
+      "d": "Both A and C"
+    },
+    "31": {
+      "a": "Constructor",
+      "b": "Destructor",
+      "c": "Member function",
+      "d": "None of the above"
+    },
+    "32": {
+      "a": "Operator Functions",
+      "b": "Constant Functions",
+      "c": "Virtual Functions",
+      "d": "Both A and B"
+    },
+    "33": {
+      "a": "Distributed",
+      "b": "Multiple",
+      "c": "Multi-level",
+      "d": "Hierarchal"
+    },
+    "34": {
+      "a": "It is not even allowed in C++",
+      "b": "It will not have the Constructor",
+      "c": "It will not have the destructor",
+      "d": "Both B and C"
+    },
+    "35": {
+      "a": "Right to left",
+      "b": "Left to right",
+      "c": "Top to bottom",
+      "d": "Bottom-up"
+    },
+    "36": {
+      "a": "Dynamic Loading",
+      "b": "Dynamic binding",
+      "c": "Data hiding",
+      "d": "Both A & B"
+    },
+    "37": {
+      "a": "Polymorphism",
+      "b": "Abstraction",
+      "c": "Inheritance",
+      "d": "Composition"
+    },
+    "38": {
+      "a": "A class",
+      "b": "A function",
+      "c": "An object",
+      "d": "None of the above"
+    },
+    "39": {
+      "a": "Class variable",
+      "b": "Member variable",
+      "c": "Class functions",
+      "d": "Both A and B"
+    },
+    "40": {
+      "a": "Modularity",
+      "b": "Abstraction",
+      "c": "Encapsulation",
+      "d": "None of the above"
+    },
+    "41": {
+      "a": "Inheritance",
+      "b": "Encapsulations",
+      "c": "Abstraction",
+      "d": "Both A and B"
+    },
+    "42": {
+      "a": "X.Y->Z",
+      "b": "X->Y->Z",
+      "c": "X->Y;X->Z",
+      "d": "None of the above"
+    },
+    "43": {
+      "a": "ASM",
+      "b": "asm",
+      "c": "Not possible",
+      "d": "Compiler specific"
+    },
+    "44": {
+      "a": "const_cast",
+      "b": "reinterpret_cast",
+      "c": "dynamic_cast",
+      "d": "None of the above"
+    },
+    "45": {
+      "a": "C++ 98",
+      "b": "C++ 93",
+      "c": "C++ 0",
+      "d": "C++ 03"
+    },
+    "46": {
+      "a": "$var_name",
+      "b": "VAR_123",
+      "c": "varname@",
+      "d": "None of the above"
+    },
+    "47": {
+      "a": "@",
+      "b": "#",
+      "c": "&",
+      "d": "%"
+    },
+    "48": {
+      "a": "Overloaded",
+      "b": "Encapsulated",
+      "c": "Reprehensible",
+      "d": "Extensible"
+    },
+    "49": {
+      "a": "Dennis Ritchie",
+      "b": "Ken Thompson",
+      "c": "Bjarne Stroustrup",
+      "d": "Brian Kerighan"
+    },
+    "50": {
+      "a": "Read ch()",
+      "b": "Getline vh()",
+      "c": "get(ch)",
+      "d": "Scanf(ch)"
+    }
+  },
+  {
+    "1": "#include <iostream>",
+    "2": "==",
+    "3": "[]",
+    "4": "functionName()",
+    "5": "functionName();",
+    "6": "class",
+    "7": "MyClass myObj;",
+    "8": "max(x,y)",
+    "9": "*",
+    "10": "With the & operator",
+    "11": "All of the above",
+    "12": "//Comment",
+    "13": "Middle-level language",
+    "14": "\\n",
+    "15": "\\t",
+    "16": "An array is a set of similar data items",
+    "17": "4",
+    "18": "int array[5];",
+    "19": "array[0];",
+    "20": "Array[3];",
+    "21": "Contiguous",
+    "22": "Two",
+    "23": "2D Array (or 2-Dimensional array",
+    "24": "Single-dimensional",
+    "25": "Elements of the Array",
+    "26": "Same types of elements",
+    "27": "Both A and C",
+    "28": "int **arr = new int*[10];",
+    "29": "Private",
+    "30": "An object is an instance of its class",
+    "31": "Constructor",
+    "32": "Virtual Functions",
+    "33": "Distributed",
+    "34": "It will not have the destructor",
+    "35": "Bottom-up",
+    "36": "Data hiding",
+    "37": "Composition",
+    "38": "An object",
+    "39": "Member variable",
+    "40": "Encapsulation",
+    "41": "Inheritance",
+    "42": "X,Y->Z",
+    "43": "asm",
+    "44": "reinterpret_cast",
+    "45": "C++ 98",
+    "46": "VAR_123",
+    "47": "&",
+    "48": "Extensible",
+    "49": "Bjarne Stroustrup",
+    "50": "get(ch)"
+  }
+]
